@@ -1,7 +1,7 @@
 chat2class: iOS Client Application
 ======================================
 
-chat2class (C2C) is the client/server application and was a group project created for my Studio classes (SE491 and SE591) at DePaul University.  
+chat2class (C2C) is a client/server application designed and developed for my Studio classes (SE491 and SE591) at DePaul University.  
 
 C2C is a 'Twitter-like' client/server application for classmates.  The concept was to create an application that allowed classmates to share information and contact one another regarding any and all matters associated with the classes they have in common.  It also allows faculty to contact all members of the class via a 'Twitter-like' notification to help communicate timely and topical information.  It allows sub-groups to form within a class.  And most importantly, it allows classmates to get to know one another and share skills and knowledge easily. 
 
@@ -12,7 +12,7 @@ This client application was built in Objective-C using Xcode.  The server-side w
 
 Screenshots
 -------------------------------
-![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/splash.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/login.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/messagelist.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/messagedetail.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/classlist.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/classdetail.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class-ios-client/blob/master/_README_ASSETS/profile.png?raw=true)
+![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/splash.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/login.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/messagelist.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/messagedetail.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/classlist.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/classdetail.png?raw=true)![Alt text](https://github.com/jeffjohnston101/chat2class/blob/master/_README_ASSETS/profile.png?raw=true)
 
 
 App Demo
